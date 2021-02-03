@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sdwheeler/sdwheeler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| Sean Wheeler's README profile 👋 |
+| :---: |
+| [![Issues](https://img.shields.io/github/issues/microsoftdocs/powershell-docs?color=0088ff)](https://github.com/microsoftdocs/powershell-docs/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/microsoftdocs/powershell-docs?color=0088ff)](https://github.com/microsoftdocs/powershell-docs/pulls) |
+| [![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdwheeler&theme=dark&show_icons=true)](https://github.com/sdwheeler/PowerShell-Docs) |
+| [![PowerShell-Docs](https://github-readme-stats.vercel.app/api/pin/?username=MicrosoftDocs&show_owner=true&repo=PowerShell-Docs)](https://github.com/MicrosoftDocs/PowerShell-Docs) [![PowerShell](https://github-readme-stats.vercel.app/api/pin/?username=PowerShell&show_owner=true&repo=PowerShell)](https://github.com/PowerShell/PowerShell) [![platyPS](https://github-readme-stats.vercel.app/api/pin/?username=PowerShell&show_owner=true&repo=platyPS)](https://github.com/PowerShell/platyPS) [![tools-by-sean](https://github-readme-stats.vercel.app/api/pin/?username=sdwheeler&show_owner=true&repo=tools-by-sean)](https://github.com/sdwheeler/tools-by-sean) |
+| ![](https://komarev.com/ghpvc/?username=sdwheeler) |
