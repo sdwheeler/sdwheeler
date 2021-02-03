@@ -13,16 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ✨ Sean Wheeler's GitHub profile ✨ 
+# ✨ My GitHub profile ✨ ![](https://komarev.com/ghpvc/?username=sdwheeler)
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdwheeler&theme=dark&show_icons=true&count_private=true)](https://github.com/MicrosoftDocs/PowerShell-Docs)
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdwheeler&theme=dark&show_icons=true&count_private=true)
 
 | | |
 | :---: |:---: |
 | [![PowerShell-Docs][psdocsimg]](https://github.com/MicrosoftDocs/PowerShell-Docs)<br> [![Issues][psdocs-iss]](https://github.com/microsoftdocs/powershell-docs/issues) [![GitHub pull requests][psdocs-prs]](https://github.com/microsoftdocs/powershell-docs/pulls) | [![PowerShell][pscodeimg]](https://github.com/PowerShell/PowerShell)<br> [![Issues][pscode-iss]](https://github.com/PowerShell/powershell/issues) [![GitHub pull requests][pscode-prs]](https://github.com/PowerShell/powershell/pulls) |
 | [![platyPS][platyPSimg]](https://github.com/PowerShell/platyPS)<br> [![Issues][platy-iss]](https://github.com/PowerShell/platyps/issues) [![GitHub pull requests][platy-prs]](https://github.com/powershell/platyps/pulls) | [![tools-by-sean][tbsimg]](https://github.com/sdwheeler/tools-by-sean)<br> [![Issues][tbs-iss]](https://github.com/sdwheeler/tools-by-sean/issues) [![GitHub pull requests][tbs-prs]](https://github.com/sdwheeler/tools-by-sean/pulls) |
 
-![](https://komarev.com/ghpvc/?username=sdwheeler)
 
 
 [psdocsimg]: https://github-readme-stats.vercel.app/api/pin/?username=MicrosoftDocs&show_owner=true&repo=PowerShell-Docs&theme=dark
