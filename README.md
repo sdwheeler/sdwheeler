@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 | :---: |:---: |
 | [![PowerShell-Docs][psdocs-stat]][ghdocs]<br>[![Issues][psdocs-iss]][ghdocsiss] [![GitHub pull requests][psdocs-prs]][ghdocsprs] | [![PowerShell][pssrc-stat]][ghsrc]<br>[![Issues][pssrc-iss]][ghsrciss] [![GitHub pull requests][pssrc-prs]][ghsrcprs] |
 | [![PowerShell-Docs-DSC][psdsc-stat]][ghdocsdsc]<br>[![Issues][psdsc-iss]][ghdocsdsciss] [![GitHub pull requests][psdsc-prs]][ghdocsdscprs] | [![PowerShell-Docs-Modules][psmod-stat]][ghdocsmod]<br> [![Issues][psmod-iss]][ghdocsmodiss] [![GitHub pull requests][psmod-prs]][ghdocsmodprs] |
-| [![Community-Blog][psblog-stat]][ghblog]<br>[![Issues][psblog-iss]][ghblogiss] [![GitHub pull requests][psblog-prs]][ghblogprs] |  |
+| [![Community-Blog][psblog-stat]][ghblog]<br>[![Issues][psblog-iss]][ghblogiss] [![GitHub pull requests][psblog-prs]][ghblogprs] | [![Presentations][swpres-stat]][ghsdwpres] |
 
 <!-- link references -->
 [ghblog]: https://github.com/PowerShell/Community-Blog
@@ -39,10 +39,12 @@ Here are some ideas to get you started:
 [ghsrc]: https://github.com/PowerShell/PowerShell
 [ghsrciss]: https://github.com/PowerShell/powershell/issues
 [ghsrcprs]: https://github.com/PowerShell/powershell/pulls
+[ghsdwpres]: https://github.com/sdwheeler/Presentations
 
 [views]: https://komarev.com/ghpvc/?username=sdwheeler
 [mystats]: https://github-readme-stats.vercel.app/api?username=sdwheeler&theme=dark&show_icons=true&count_private=true
 
+[swpres-stat]: https://github-readme-stats.vercel.app/api/pin/?username=sdwheeler&show_owner=true&repo=Presentations&theme=dark
 [psblog-stat]: https://github-readme-stats.vercel.app/api/pin/?username=PowerShell&show_owner=true&repo=Community-Blog&theme=dark
 [psblog-iss]: https://img.shields.io/github/issues/powershell/community-blog?color=0088ff
 [psblog-prs]: https://img.shields.io/github/issues-pr/powershell/community-blog?color=0088ff
