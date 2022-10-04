@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 | | |
 | :---: |:---: |
 | [![PowerShell-Docs][psdocsimg]][ghdocs]<br>[![Issues][psdocs-iss]][ghdocsiss] [![GitHub pull requests][psdocs-prs]][ghdocsprs] | [![PowerShell][pscodeimg]][pssrc]<br>[![Issues][pscode-iss]][pssrciss] [![GitHub pull requests][pscode-prs]][pssrcprs] |
-| [![PowerShell-Docs-Modules][psutilimg]][ghdocsdsc]<br>[![Issues][psutil-iss]][ghdocsdsciss] [![GitHub pull requests][psutil-prs]][ghdocsdscprs] | [![PowerShell-Docs-Modules][psutilimg]][ghdocsmod]<br> [![Issues][psutil-iss]][ghdocsmodiss] [![GitHub pull requests][psutil-prs]][ghdocsmodprs] |
+| [![PowerShell-Docs-DSC][psdscimg]][ghdocsdsc]<br>[![Issues][psdsc-iss]][ghdocsdsciss] [![GitHub pull requests][psdsc-prs]][ghdocsdscprs] | [![PowerShell-Docs-Modules][psmodimg]][ghdocsmod]<br> [![Issues][psmod-iss]][ghdocsmodiss] [![GitHub pull requests][psmod-prs]][ghdocsmodprs] |
 | [![Community-Blog][pscommimg]][ghblog]<br>[![Issues][pscomm-iss]][ghblogissues] [![GitHub pull requests][pscomm-prs]][ghblogprs] |  |
 
 <!-- link references -->
@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 [psdocsimg]: https://github-readme-stats.vercel.app/api/pin/?username=MicrosoftDocs&show_owner=true&repo=PowerShell-Docs&theme=dark
 [pscodeimg]: https://github-readme-stats.vercel.app/api/pin/?username=PowerShell&show_owner=true&repo=PowerShell&theme=dark
 [pscommimg]: https://github-readme-stats.vercel.app/api/pin/?username=PowerShell&show_owner=true&repo=Community-Blog&theme=dark
-[psutilimg]: https://github-readme-stats.vercel.app/api/pin/?username=MicrosoftDocs&show_owner=true&repo=PowerShell-Docs-Modules&theme=dark
+[psdscimg]: https://github-readme-stats.vercel.app/api/pin/?username=MicrosoftDocs&show_owner=true&repo=PowerShell-Docs-Modules&theme=dark
+[psmodimg]: https://github-readme-stats.vercel.app/api/pin/?username=MicrosoftDocs&show_owner=true&repo=PowerShell-Docs-Modules&theme=dark
 
 [psdocs-iss]: https://img.shields.io/github/issues/microsoftdocs/powershell-docs?color=0088ff
 [psdocs-prs]: https://img.shields.io/github/issues-pr/microsoftdocs/powershell-docs?color=0088ff
@@ -53,5 +54,7 @@ Here are some ideas to get you started:
 [pscode-prs]: https://img.shields.io/github/issues-pr/PowerShell/PowerShell?color=0088ff
 [pscomm-iss]: https://img.shields.io/github/issues/PowerShell/Community-Blog?color=0088ff
 [pscomm-prs]: https://img.shields.io/github/issues-pr/PowerShell/Community-Blog?color=0088ff
-[psutil-iss]: https://img.shields.io/github/issues/MicrosoftDocs/PowerShell-Docs-Modules?color=0088ff
-[psutil-prs]: https://img.shields.io/github/issues-pr/MicrosoftDocs/PowerShell-Docs-Modules?color=0088ff
+[psdsc-iss]: https://img.shields.io/github/issues/MicrosoftDocs/PowerShell-Docs-DSC?color=0088ff
+[psdsc-prs]: https://img.shields.io/github/issues-pr/MicrosoftDocs/PowerShell-Docs-DSC?color=0088ff
+[psmod-iss]: https://img.shields.io/github/issues/MicrosoftDocs/PowerShell-Docs-Modules?color=0088ff
+[psmod-prs]: https://img.shields.io/github/issues-pr/MicrosoftDocs/PowerShell-Docs-Modules?color=0088ff
