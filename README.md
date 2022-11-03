@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 | [![PowerShell-Docs-DSC][psdsc-stat]][ghdocsdsc]<br>[![Issues][psdsc-iss]][ghdocsdsciss] [![GitHub pull requests][psdsc-prs]][ghdocsdscprs] | [![PowerShell-Docs-Modules][psmod-stat]][ghdocsmod]<br> [![Issues][psmod-iss]][ghdocsmodiss] [![GitHub pull requests][psmod-prs]][ghdocsmodprs] |
 | [![Community-Blog][psblog-stat]][ghblog]<br>[![Issues][psblog-iss]][ghblogiss] [![GitHub pull requests][psblog-prs]][ghblogprs] | [![Presentations][swpres-stat]][ghsdwpres] |
 
+My badges
+[![@sdwheeler's Holopin board](https://holopin.me/sdwheeler)](https://holopin.io/@sdwheeler)
+
 <!-- link references -->
 [ghblog]: https://github.com/PowerShell/Community-Blog
 [ghblogiss]: https://github.com/PowerShell/Community-Blog/issues
