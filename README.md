@@ -6,11 +6,11 @@ As a documentarian, I ensure that users have the content they need. I also suppo
 PowerShell Community to add value via open-source contributions to the documentation.
 
 I have spent my career helping customers successfully design, deploy, and optimize IT solutions
-using Microsoft tools and technologies. I also taught classes on TCP/IP protrocols, scripting,
-debugging and crash analysis, and performance tuning.
+using Microsoft tools and technologies. I also taught classes on TCP/IP protocol analysis,
+scripting languages, debugging and crash analysis, and performance tuning.
 
 These days, I am focused on PowerShell, technical writing, and speaking at conferences and user
-groups. Here is some of the stuff I have written:
+groups. Here are some of the things I have written:
 
 - [PowerShell Documentation][10]
 - [Sean on IT][12]
