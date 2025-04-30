@@ -1,4 +1,4 @@
-# ✨ About me ✨ ![Profile views][09]
+# ✨ About me ✨ ![Profile views][09] [![Reddit User Karma][08]][16] [![Sessionize][07]][14] [![LinkedIn][06]][11] [![Bluesky][05]][01]
 
 Lead Documentarian for PowerShell at Microsoft. Teacher. Technical Communicator. PowerShell champ.
 
@@ -18,11 +18,6 @@ groups. Here is some of the stuff I have written:
 - [PowerShell modules][15]
 
 ---
-
-[![Reddit User Karma][08]][16]
-[![Sessionize][07]][14]
-[![LinkedIn][06]][11]
-[![Bluesky][05]][01]
 
 ![Sean's GitHub stats][02]
 
