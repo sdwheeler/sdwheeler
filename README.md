@@ -34,9 +34,9 @@ groups. Here is some of the stuff I have written:
 [01]: https://bsky.app/profile/sdwheeler.bsky.social
 [02]: https://github-readme-stats.vercel.app/api?username=sdwheeler&theme=dark&show_icons=true&count_private=true
 [04]: https://holopin.me/sdwheeler
-[05]: https://img.shields.io/badge/Bluesky-%230285FF&style=social&logo=Bluesky&logoColor=white
-[06]: https://img.shields.io/badge/LinkedIn-%230077B5&style=social&logo=LinkedIn&logoColor=white
-[07]: https://img.shields.io/badge/sessionize-1AB3945&style=social&logo=Sessionize&logoColor=white
+[05]: https://img.shields.io/badge/Bluesky-230285FF&style=social&logo=bluesky&logoColor=white&label=Bluesky&labelColor=230285FF
+[06]: https://img.shields.io/badge/LinkedIn-230077B5&style=social&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=230077B5
+[07]: https://img.shields.io/badge/sessionize-1AB3945&style=social&logo=sessionize&logoColor=white&label=Sessionize&labelColor=230285FF
 [08]: https://img.shields.io/reddit/user-karma/combined/swsamwa
 [09]: https://komarev.com/ghpvc/?username=sdwheeler
 [10]: https://learn.microsoft.com/powershell/scripting/
