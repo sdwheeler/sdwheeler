@@ -1,4 +1,4 @@
-# ✨ About me ✨ ![Profile views][04]
+# ✨ About me ✨ ![Profile views][09]
 
 Lead Documentarian for PowerShell at Microsoft. Teacher. Technical Communicator. PowerShell champ.
 
@@ -12,20 +12,37 @@ debugging and crash analysis, and performance tuning.
 These days, I am focused on PowerShell, technical writing, and speaking at conferences and user
 groups. Here is some of the stuff I have written:
 
-- [PowerShell Documentation](https://learn.microsoft.com/powershell/scripting/)
-- [Sean on IT](https://sdwheeler.github.io/seanonit/)
-- [Talks](https://sdwheeler.github.io/seanonit/docs/)
+- [PowerShell Documentation][10]
+- [Sean on IT][12]
+- [Talks][13]
+- [PowerShell modules][15]
 
 ---
 
-![Sean's GitHub stats][01]
+[![Reddit User Karma][08]][16]
+[![Sessionize][07]][14]
+[![LinkedIn][06]][11]
+[![Bluesky][05]][01]
+
+![Sean's GitHub stats][02]
 
 ## Badges
 
-[![@sdwheeler's Holopin board][03]][02]
+[![@sdwheeler's Holopin board][04]][02]
 
 <!-- link references -->
-[01]: https://github-readme-stats.vercel.app/api?username=sdwheeler&theme=dark&show_icons=true&count_private=true
-[02]: https://holopin.io/@sdwheeler
-[03]: https://holopin.me/sdwheeler
-[04]: https://komarev.com/ghpvc/?username=sdwheeler
+[01]: https://bsky.app/profile/sdwheeler.bsky.social
+[02]: https://github-readme-stats.vercel.app/api?username=sdwheeler&theme=dark&show_icons=true&count_private=true
+[04]: https://holopin.me/sdwheeler
+[05]: https://img.shields.io/badge/bluesky-%230285FF
+[06]: https://img.shields.io/badge/linkedin-blue
+[07]: https://img.shields.io/badge/sessionize-1AB394
+[08]: https://img.shields.io/reddit/user-karma/combined/swsamwa
+[09]: https://komarev.com/ghpvc/?username=sdwheeler
+[10]: https://learn.microsoft.com/powershell/scripting/
+[11]: https://linkedin.com/in/scriptingsean
+[12]: https://sdwheeler.github.io/seanonit/
+[13]: https://sdwheeler.github.io/seanonit/docs/
+[14]: https://sessionize.com/sean-wheeler
+[15]: https://www.powershellgallery.com/profiles/sewhee
+[16]: https://www.reddit.com/user/swsamwa/
