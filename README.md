@@ -1,7 +1,5 @@
 # ✨ About me ✨ ![Profile views][04]
 
----
-
 Lead Documentarian for PowerShell at Microsoft. Teacher. Technical Communicator. PowerShell champ.
 
 As a documentarian, I ensure that users have the content they need. I also support and encourage the
@@ -12,15 +10,19 @@ using Microsoft tools and technologies. I also taught classes on TCP/IP protroco
 debugging and crash analysis, and performance tuning.
 
 These days, I am focused on PowerShell, technical writing, and speaking at conferences and user
-groups.
+groups. Here is some of the stuff I have written:
+
+- [PowerShell Documentation](https://learn.microsoft.com/powershell/scripting/)
+- [Sean on IT](https://sdwheeler.github.io/seanonit/)
+- [Talks](https://sdwheeler.github.io/seanonit/docs/)
+
+---
 
 ![Sean's GitHub stats][01]
 
 ## Badges
 
 [![@sdwheeler's Holopin board][03]][02]
-
----
 
 <!-- link references -->
 [01]: https://github-readme-stats.vercel.app/api?username=sdwheeler&theme=dark&show_icons=true&count_private=true
