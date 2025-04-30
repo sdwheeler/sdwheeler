@@ -35,7 +35,7 @@ groups. Here is some of the stuff I have written:
 [02]: https://github-readme-stats.vercel.app/api?username=sdwheeler&theme=dark&show_icons=true&count_private=true
 [04]: https://holopin.me/sdwheeler
 [05]: https://img.shields.io/badge/bluesky-%230285FF
-[06]: https://img.shields.io/badge/linkedin-blue
+[06]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white
 [07]: https://img.shields.io/badge/sessionize-1AB394
 [08]: https://img.shields.io/reddit/user-karma/combined/swsamwa
 [09]: https://komarev.com/ghpvc/?username=sdwheeler
