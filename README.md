@@ -13,9 +13,9 @@ These days, I am focused on PowerShell, technical writing, and speaking at confe
 groups. Here are some of the things I have written:
 
 - [PowerShell Documentation][10]
-- [Sean on IT][12]
-- [Talks][13]
-- [PowerShell modules][15]
+- [Sean on IT][12] - My blog
+- [Talks][13] - My presentations
+- [PowerShell modules][15] - code I have written or contributed to
 
 ---
 
