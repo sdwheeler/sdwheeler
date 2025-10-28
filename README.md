@@ -1,4 +1,4 @@
-# ✨ About me ✨ ![Profile views][09] [![Reddit User Karma][08]][16] [![Sessionize][07]][14] [![LinkedIn][06]][11] [![Bluesky][05]][01]
+# ✨ About me ✨ ![Profile views][09] [![Reddit karma][08]][16] [![Sessionize][07]][14] [![LinkedIn][06]][11] [![Bluesky][05]][01]
 
 Lead Documentarian for PowerShell at Microsoft. Teacher. Technical Communicator. PowerShell champ.
 
@@ -15,7 +15,7 @@ groups. Here are some of the things I have written:
 - [PowerShell Documentation][10]
 - [Sean on IT][12] - My blog
 - [Talks][13] - My presentations
-- [PowerShell modules][15] - code I have written or contributed to
+- [PowerShell modules][15] - code I published
 
 ---
 
@@ -29,15 +29,15 @@ groups. Here are some of the things I have written:
 [01]: https://bsky.app/profile/sdwheeler.bsky.social
 [02]: https://github-readme-stats.vercel.app/api?username=sdwheeler&theme=dark&show_icons=true&count_private=true
 [04]: https://holopin.me/sdwheeler
-[05]: https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white
+[05]: https://img.shields.io/bluesky/followers/sdwheeler.bsky.social
 [06]: https://img.shields.io/badge/LinkedIn-blue
 [07]: https://img.shields.io/badge/Sessionize-1AB394?logo=sessionize&logoColor=white
-[08]: https://img.shields.io/reddit/user-karma/combined/swsamwa
+[08]: https://img.shields.io/reddit/user-karma/combined/swsamwa?label=u%2Fswsamwa
 [09]: https://komarev.com/ghpvc/?username=sdwheeler
 [10]: https://learn.microsoft.com/powershell/scripting/
 [11]: https://linkedin.com/in/scriptingsean
-[12]: https://sdwheeler.github.io/seanonit/
-[13]: https://sdwheeler.github.io/seanonit/docs/
+[12]: https://seanonit.org/
+[13]: https://seanonit.org/docs/
 [14]: https://sessionize.com/sean-wheeler
 [15]: https://www.powershellgallery.com/profiles/sewhee
 [16]: https://www.reddit.com/user/swsamwa/
