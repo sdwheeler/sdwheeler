@@ -1,4 +1,4 @@
-# ✨ About me ✨ ![Profile views][09] [![Reddit karma][08]][16] [![Sessionize][07]][14] [![LinkedIn][06]][11] [![Bluesky][05]][01]
+# ✨ About me ✨ ![Profile views][09] [![LinkedIn][06]][11] [![Sessionize][07]][14] [![Bluesky][05]][01] [![Reddit karma][08]][16]
 
 Lead Documentarian for PowerShell at Microsoft. Teacher. Technical Communicator. PowerShell champ.
 
@@ -29,10 +29,10 @@ groups. Here are some of the things I have written:
 [01]: https://bsky.app/profile/sdwheeler.bsky.social
 [02]: https://github-readme-stats.vercel.app/api?username=sdwheeler&theme=dark&show_icons=true&count_private=true
 [04]: https://holopin.me/sdwheeler
-[05]: https://img.shields.io/bluesky/followers/sdwheeler.bsky.social
-[06]: https://img.shields.io/badge/LinkedIn-blue
+[05]: https://img.shields.io/bluesky/followers/sdwheeler.bsky.social?style=flat&logo=bluesky&logoColor=white&label=Bluesky&color=blue
+[06]: https://img.shields.io/badge/LinkedIn-2767c5?style=flat
 [07]: https://img.shields.io/badge/Sessionize-1AB394?logo=sessionize&logoColor=white
-[08]: https://img.shields.io/reddit/user-karma/combined/swsamwa?label=u%2Fswsamwa
+[08]: https://img.shields.io/reddit/user-karma/combined/swsamwa?style=flat&label=u%2Fswsamwa&color=f54200
 [09]: https://komarev.com/ghpvc/?username=sdwheeler
 [10]: https://learn.microsoft.com/powershell/scripting/
 [11]: https://linkedin.com/in/scriptingsean
