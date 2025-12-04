@@ -18,9 +18,10 @@ groups. Here are some of the things I have written:
 - [PowerShell modules][15] - code I published
 
 ---
-
+<!-- GitHub stats - https://github.com/anuraghazra/github-readme-stats
 ![Sean's GitHub stats][02]
-
+ -->
+ 
 ## Badges
 
 [![@sdwheeler's Holopin board][04]][02]
